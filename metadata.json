@@ -1,0 +1,6 @@
+{
+  "name": "Parkzone",
+  "description": "Real-time parking locator and hosting app in Bangalore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
